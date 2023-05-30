@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shubham Mishra
 - 👀 I’m interested in learning new technologies that can boost my confidence. 
 - 🌱 I’m currently learning Data Science with Edyoda
-- 💞️ I’m looking to collaborate on Python, MySQL and other technologies. 
+- 💞️ I’m looking to collaborate on Python, MySQL, PowerApps, Sharepoint and other technologies. 
 - 📫 How to reach me through my LinkedIn profile www.linkedin.com/in/shubham-mishra-95979b31
 
 <!---
